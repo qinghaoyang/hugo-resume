@@ -1,13 +1,10 @@
 {
-  "title": "BOSH release for Bamboo & Remote Agents",
-  "date": "2018-02-11T12:41:05-05:00",
-  "image": "/img/circleci-workflow.webp",
-  "link": "https://github.com/eddiewebb/bosh-bamboo",
-  "image": "/img/aafb-agent-ids-match-bamboo.webp",
-  "description": "BOSH (Bosh Outer SHell) \"<em>is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>\" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.",
-  "tags": ["DevOps","BOSH", "Java", "Atlassian Ecosystem", "monit", "python", "xml/xslt", "bash/shell","REST APIs"],
+  "title": "Batch and Stream processing for dataset from the US Department of Transportation",
+  "date": "",
+  "image": "",
+  "link": "https://github.com/",
+  "description": "Extracted and cleaned the dataset, and stored around 0.3 billion records into HDFS in a cluster built by Amazon EMR.",
+  "tags": ["AWS","HDFS","Dynamodb","Spark","Kafka"],
   "fact": "",
   "featured":true
 }
-
-BOSH (Bosh Outer SHell) "...<em> is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.</em>" And it's amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it.  The releases manages the health of services and will automatically provision, start/stop processes across the various services.

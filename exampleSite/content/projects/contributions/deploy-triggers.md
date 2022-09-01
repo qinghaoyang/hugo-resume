@@ -1,14 +1,12 @@
 ---
-title: "Atlassian Deployment Triggers"
-link: "https://bitbucket.org/atlassianlabs/bamboo-after-deployment-trigger/pull-requests/2/fixes-issue-2-eliminate/diff"
+title: "Batch and Stream processing for dataset from the US Department of Transportation"
+link: ""
 image: "/img/deploysonly.webp"
-description: "Uses Async call to lucene index for super fast autocompletion to address performance issue loading config."
+description: "Extracted and cleaned the dataset, and stored around 0.3 billion records into HDFS in a cluster built by Amazon EMR"
 featured: true
-tags: ["Java","jQuery","REST APIs","Bamboo","JSON"]
-fact: "Reduce page load time from minutes to instantaneous."
+tags: ["AWS","HDFS","Dynamodb","Spark","Kafka"]
+fact: ""
 weight: 100
 sitemap: 
     priority : 0.8
 ---
-
-Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.
