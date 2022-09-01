@@ -1,15 +1,16 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"Northwestern University",
+        "degree":"Ph.D. Candidate",
+        "major":"Civil and Environmental Engineering",
+        "notes":"",
+        "range":"2018 - Present"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"University of Illinois at Urbana-Champaign",
+        "degree":"Master",
+        "major":"Computer Science",
+        "notes":"Courses: Database Systems, Cloud Computing, Cloud Networking, Natural Language Processing, Parallel Programming, etc.",
+        "range":"2021 - Present"
     }
 ]
