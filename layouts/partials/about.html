@@ -14,15 +14,11 @@
 
             </div>
 
-            {{ if .Site.Params.showQr }}
-              {{ partial "contact-qr" . }}
-            {{ end }}
-
         </div>
         <div>
+          <p class="">I'm a self-motivated researcher, developer, and lifelong learner with passion in</p> 
           {{ .Content }}
-          I'm a self-motivated researcher, developer, and lifelong learner with passion in 
-          <ul class="list-inline list-social-icons mb-0">
+          <ul class="p-3 list-inline list-social-icons mb-0">
             {{ range .Site.Params.handles }}
                 <li class="list-inline-item">
                   <a href="{{ .link }}" data-toggle="tooltip" title="{{ .name }}" data-offset="0,10" rel="me">

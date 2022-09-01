@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Languages",
+      "skills":[ "Python","C/C++","Javascript", "Java", "Shell", "HTML/CSS", "SQL", "Matlab"]
+  },
+  {
+      "grouping":"Databases",
+      "skills":[ "MySQL","PostgreSQL","DynamoDB","Hbase","Redis"]
+  },
+  {
+      "grouping":"Frameworks",
+      "skills":[ "Flask","React","PyTorch","Pandas","Kafka", "Hadoop", "Spark"]
+  },
+  {
+    "grouping":"Tools",
+      "skills":[ "Git", "Docker", "Kubernetes", "AWS", "GCP"]
+  }
+]
