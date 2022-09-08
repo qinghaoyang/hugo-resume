@@ -4,10 +4,6 @@
       "skills":[ "Python","C/C++","Javascript", "Shell", "HTML/CSS", "SQL", "Matlab"]
   },
   {
-      "grouping":"Databases",
-      "skills":[ "MySQL","PostgreSQL","DynamoDB","Hbase","Redis"]
-  },
-  {
       "grouping":"Frameworks & Libraries",
       "skills":[ "Flask", "Angular", "React","PyTorch","pandas","Kafka", "Hadoop", "Spark", "OpenMP", "MPI"]
   },
