@@ -3,9 +3,9 @@
         "role":"Research Assistant",
         "company":"Northwestern University",
         "summary":[
-            "Worked on data-driven approaches for soil-machine/robot interaction. Developed an end-to-end workflow for automatically running numerous simulations, cleaning simulated data, and visualizing data",
-            "Led the development of data-driven numerical solvers, which accelerated the simulations of machines/robots moving on deformable soil.",
-            "Applied physics-informed neural networks in soil-machine/robot interaction, and successfully predicted mechanical responses with small dataset"
+            "Worked on data-driven approaches for soil-machine/robot interaction",
+            "Developed data-driven numerical solvers for high-dimensionality systems",
+            "Designed and implemented a neural network model reinforced by physical laws"
         ],
         "range":"September 2018 - Present"
     },
@@ -20,8 +20,8 @@
         "role":"Open Source Developer, Member of Contributor Experience Team",
         "company":"Oppia Foundation",
         "summary":[
-            "Developed new features for an online education platform with Angular and Python to improve the contributing experience of Oppia community.",
-            "Designed a development flag to automatically create and manage users in Firebase Auth Emulator and populate data in Google Cloud Datastore Emulator, which helped the team do end-to-end testing for new features.",
+            "Developed new features for an online education platform with Angular and Python to improve the contributing experience of Oppia community",
+            "Created a development mode that helped the team conduct end-to-end testing for new features easily",
             "Added schema validations for data passed to backend API controllers."
         ],
         "range":"June 2022 - Present"

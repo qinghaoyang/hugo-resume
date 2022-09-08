@@ -1,18 +1,18 @@
 [
   {
-      "grouping":"Languages",
-      "skills":[ "Python","C/C++","Javascript", "Java", "Shell", "HTML/CSS", "SQL", "Matlab"]
+      "grouping":"Programming Languages",
+      "skills":[ "Python","C/C++","Javascript", "Shell", "HTML/CSS", "SQL", "Matlab"]
   },
   {
       "grouping":"Databases",
       "skills":[ "MySQL","PostgreSQL","DynamoDB","Hbase","Redis"]
   },
   {
-      "grouping":"Frameworks",
-      "skills":[ "Flask","React","PyTorch","Pandas","Kafka", "Hadoop", "Spark"]
+      "grouping":"Frameworks & Libraries",
+      "skills":[ "Flask", "Angular", "React","PyTorch","pandas","Kafka", "Hadoop", "Spark", "OpenMP", "MPI"]
   },
   {
-    "grouping":"Tools",
-      "skills":[ "Git", "Docker", "Kubernetes", "AWS", "GCP"]
+    "grouping":"Tools & Databases",
+      "skills":[ "Git", "Docker", "Kubernetes", "AWS", "GCP", "SQLite","PostgreSQL","DynamoDB","Hbase","Redis"]
   }
 ]
