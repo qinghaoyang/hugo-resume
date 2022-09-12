@@ -6,6 +6,13 @@
     <a href="{{ .Params.link }}">
       <img src="{{ .Params.image }}" style="max-height:400px;max-width:400px;"/>
     </a>
+    {{ if .Params.video }}
+    <div style="width: 400px;height:250px" class="flex items-center justify-center">
+      <video src="{{ .Params.video }}" controls style="width: 100%;height: 100%;"
+        class="video-js vjs-default-skin" preload="auto">
+      </video>
+    </div>
+    {{ end }}
   </div>
   <div class="resume-date break-words">
     <p>{{ .Description | safeHTML }}<p>

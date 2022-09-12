@@ -4,8 +4,16 @@
   <div class="my-auto">
     <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
     {{ .Content }}
-    {{ with .Params.link }}<p>Project link: <a href="{{ . }}">{{ . }}</a></p>{{ end }}
+    <!-- {{ with .Params.link }}<p>Project link: <a href="{{ . }}">{{ . }}</a></p>{{ end }} -->
     {{ partial "techtags" . }}
+    <h3>Fixed network speed in 2020 Q1</h3>
+    <img src="/img/fixed_2020.png" style="max-height:600px;max-width:600px;"/>
+    <h3>Fixed network speed in 2021 Q1</h3>
+    <img src="/img/fixed_2021.png" style="max-height:600px;max-width:600px;"/>
+    <h3>Mobile network speed in 2020 Q1</h3>
+    <img src="/img/mobile_2020.png" style="max-height:600px;max-width:600px;"/>
+    <h3>Mobile network speed in 2021 Q1</h3>
+    <img src="/img/mobile_2021.png" style="max-height:600px;max-width:600px;"/>
   </div>
 </section>
 {{ end }}
